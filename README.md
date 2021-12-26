@@ -1,5 +1,5 @@
 ## Clustering of Bank Customers using LSTM-based encoder-decoder and Dynamic Time Warping
-
+[arxiv link](https://arxiv.org/abs/2110.11769)
 #### Ehsan Barkhordar, Mohammad Hassan Shirali-Shahreza, Hamidreza Sadeghi
 
 * [Ehsan Barkhordar](https://ehsanbarkhordar.github.io/) - [Mohammad Hassan Shirali-Shahreza](https://shahreza.shirali.ir/) - [Hamidreza Sadeghi](https://www.linkedin.com/in/hamidrezasadeghi/)
